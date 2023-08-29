@@ -1,3 +1,3 @@
 # curso-javascript-inicial
 
-## Autor: Eduardo Ignacio Denis
+## Autor: Jose Ignacio Ferreyra Cornejo
